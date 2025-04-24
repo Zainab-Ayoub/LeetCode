@@ -8,12 +8,14 @@
 | [0036-valid-sudoku](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0036-valid-sudoku) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Union Find
@@ -37,6 +39,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
