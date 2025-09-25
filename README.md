@@ -19,6 +19,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0383-ransom-note) |
@@ -46,6 +47,7 @@
 | [0020-valid-parentheses](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
