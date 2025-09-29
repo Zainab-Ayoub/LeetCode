@@ -9,6 +9,7 @@
 | [0036-valid-sudoku](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0200-number-of-islands) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
