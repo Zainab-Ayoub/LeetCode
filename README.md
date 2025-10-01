@@ -17,6 +17,7 @@
 | [0217-contains-duplicate](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0792-binary-search](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0792-binary-search](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0792-binary-search) |
 ## Binary Search Tree
 |  |
 | ------- |
