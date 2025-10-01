@@ -4,7 +4,7 @@ class Solution:
         start, end = 0, len(nums)-1
 
         while(start <= end):
-            if nums[start] <= nums[end]:
+            if nums[start] < nums[end]:
                 minValue = min(minValue, nums[start])
                 break
             mid = (start+end) // 2
