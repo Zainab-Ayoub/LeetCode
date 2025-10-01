@@ -12,6 +12,7 @@
 | [0056-merge-intervals](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Binary Search Tree
 |  |
 | ------- |
