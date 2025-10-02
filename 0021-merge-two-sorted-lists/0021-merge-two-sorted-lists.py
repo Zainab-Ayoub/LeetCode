@@ -14,12 +14,11 @@ class Solution:
                 list1 = list1.next
             else:
                 tail.next = list2
-                list2 = list2.next 
-            tail = tail.next 
+                list2 = list2.next
+            tail = tail.next
 
         if list1:
             tail.next = list1
         if list2:
-            tail.next = list2
-
+            tail.next = list2    
         return dummy.next            
