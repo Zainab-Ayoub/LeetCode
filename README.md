@@ -136,6 +136,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -143,12 +144,14 @@
 | [0200-number-of-islands](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0200-number-of-islands) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -156,6 +159,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
