@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0056-merge-intervals) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -81,6 +83,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -121,6 +124,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -203,4 +207,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
