@@ -19,4 +19,4 @@ class Solution:
                 lMax = max(lMax, height[left])
                 left += 1   
 
-        return result         
+        return result
