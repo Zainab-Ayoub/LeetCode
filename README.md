@@ -25,6 +25,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0792-binary-search](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0792-binary-search) |
+| [0912-sort-an-array](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0242-valid-anagram](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0912-sort-an-array](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [0053-maximum-subarray](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0912-sort-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -197,10 +200,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -221,4 +226,16 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0042-trapping-rain-water) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
