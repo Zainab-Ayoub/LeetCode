@@ -15,6 +15,7 @@
 | [0053-maximum-subarray](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0057-insert-interval) |
+| [0088-merge-sorted-array](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -63,6 +64,7 @@
 | [0027-remove-element](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -90,6 +92,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0347-top-k-frequent-elements) |
