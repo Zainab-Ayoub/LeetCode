@@ -26,6 +26,7 @@
 | [0217-contains-duplicate](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0792-binary-search](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0792-binary-search) |
 | [0912-sort-an-array](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0912-sort-an-array) |
@@ -45,6 +46,7 @@
 | [0217-contains-duplicate](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Union Find
@@ -135,6 +137,7 @@
 | [0013-roman-to-integer](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
 |  |
 | ------- |
@@ -254,4 +257,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Zainab-Ayoub/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
